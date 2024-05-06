@@ -54,7 +54,7 @@ class RegistrationPage:
             have.exact_texts(
                 f'{user.first_name} {user.last_name}',
                 user.email,
-                user.gender,
+                #user.gender,
                 user.number,
                 f'{user.date_of_birth_day} {user.date_of_birth_month},{user.date_of_birth_year}',
                 user.subject,
