@@ -31,6 +31,5 @@ __pycache__/
 venv*/
 allure-results
 .notifications
-notifications/
 allure-report
 .allure-report
